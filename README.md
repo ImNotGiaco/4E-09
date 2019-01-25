@@ -1,7 +1,9 @@
 # 4E-09
-###venerdì
+
+### venerdì 
+
 primo esercizio costruzione repository
 
 
-*primo item
-*secondo item
+* primo item
+* secondo item
